@@ -1,7 +1,7 @@
 
 ## Amazon clone
 
-Airbnb clone using React, Firebase and Material-UI. 🔥
+Amazon clone using React, Firebase, and Material-UI. 🔥
 
 Demo: https://clone-df890.web.app/
 
